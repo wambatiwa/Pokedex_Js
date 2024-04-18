@@ -2,6 +2,10 @@ button {
     width: fit-content;
     align-self: center;
 }
+dialog {
+    width: 600px;
+    height: 500px;
+}
 
 .pokemon {
     max-width: 350px;
@@ -12,4 +16,11 @@ button {
 img{
     display: block;
     max-width: 100%;
+}
+.ferme {
+    margin-left: auto;
+}
+.caught {
+    background-color: #f00;
+    color: #fff;
 }
